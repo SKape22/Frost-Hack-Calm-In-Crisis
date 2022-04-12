@@ -1,11 +1,11 @@
 # Frost-Hack-Calm-In-Crisis
-We are a team of freshers from IIT Mandi. We are mostly Beginners started web-development a few days ago and we hope to continue it further. The main purpose was to get exposed to a hackathon(The first in which participated) and to get a reason to put our hands in Web-Development.
+We are a team of freshers from IIT Mandi. We are mostly Beginners started web-development a few days ago and we hope to continue it further. The main purpose was to get exposed to a hackathon(The first in which we participated) and to get a reason to put our hands in Web-Development.
 
 Instructions to use our code :
 
 We have created 6 basic webpage whose names are : 1)home.html 2)OverseeingStress.html 3)Meditation.html 4)Yoga.html 5)Resources.html 6)About.html
 
-These all web files are in the given folder with two images in the folder one is for logo for website, another is for to go to homepage. Download our sourcecode from here on Github. And unzip it in your folder using an appropriate app. Open the home.html in it. Now you are in position to use our site. NOTE: Make sure that all file must be in same folder.
+These all web files are in the given folder with two images in the folder one is for logo of website, another is for icon of navigate to homepage button. Download our sourcecode from here on Github. And unzip it in your folder using an appropriate app. Open the home.html in it. Now you are in position to use our site. NOTE: Make sure that all file must be in same folder.
 
 All are interconnected hence you must have to access all files from folder.
 
