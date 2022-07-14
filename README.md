@@ -14,3 +14,10 @@ Credits:
 We have used many websites to develop our website whose link are as follows: https://timesofindia.indiatimes.com/blogs/discover-to-uncover/meditation-a-way-of-life/ https://www.helpguide.org/articles/stress/stress-management.htm https://www.gaiam.com/blogs/discover/meditation-101-techniques-benefits-and-a-beginner-s-how-to# https://apps.who.int/iris/rest/bitstreams/1276043/retrieve
 
 Some youtube resources we have also used, channel links of those are: https://www.youtube.com/channel/UCuo91Mne_JkvxDEDsOVxgOw https://www.youtube.com/channel/UC4qz5w2M-Xmju7WC9ynqRtw https://www.youtube.com/c/SadhguruBlessings/featured https://www.youtube.com/channel/UCBA6qAglU2TtHfmK-dkpIhQ
+
+Our site is hosted at: https://calm-in-crisis.herokuapp.com/home.html
+
+Our team:
+ 1. Saksham Kumar [https://github.com/SKape22]
+ 2. Vikas Dangi [https://github.com/v-kas-dangi]
+ 3. Shubham Shukla [https://github.com/Shubh-Xmate]
